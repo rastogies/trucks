@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Congratulations!! shruti welcome to the company</h2>
+<h2>Congratulations!! shruti welcome to our DevOps Team</h2>
 </body>
 </html>
